@@ -1,0 +1,50 @@
+Added Component: Designator=BR1(DIOB_W02G-E4/51)
+Added Component: Designator=C1(CAPMF12.5x4.5x9.0x10mmLS)
+Added Component: Designator=D0(LED-0)
+Added Component: Designator=D1(LED-0)
+Added Component: Designator=D2(LED-0)
+Added Component: Designator=D3(LED-0)
+Added Component: Designator=D4(LED-0)
+Added Component: Designator=D5(LED-0)
+Added Component: Designator=D6(LED-0)
+Added Component: Designator=D7(LED-0)
+Added Component: Designator=P1(HDR1X4)
+Added Pin To Net: NetName=NetBR1_1 Pin=BR1-1
+Added Pin To Net: NetName=NetBR1_1 Pin=C1-2
+Added Pin To Net: NetName=NetBR1_1 Pin=C1-2
+Added Net: Name=NetBR1_1
+Added Pin To Net: NetName=NetBR1_2 Pin=BR1-2
+Added Pin To Net: NetName=NetBR1_2 Pin=D0-1
+Added Net: Name=NetBR1_2
+Added Pin To Net: NetName=NetBR1_3 Pin=BR1-3
+Added Pin To Net: NetName=NetBR1_3 Pin=P1-1
+Added Net: Name=NetBR1_3
+Added Pin To Net: NetName=NetBR1_4 Pin=BR1-4
+Added Pin To Net: NetName=NetBR1_4 Pin=D7-2
+Added Net: Name=NetBR1_4
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=P1-4
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD0_2 Pin=D0-2
+Added Pin To Net: NetName=NetD0_2 Pin=D1-1
+Added Net: Name=NetD0_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D5-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D6-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=D7-1
+Added Net: Name=NetD6_2
+Added Class: Name=schematic
+Added Room: Name=schematic

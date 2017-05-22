@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : W02G-E4_51.LibPkg
+
+Section : C:\Users\Moisés Villegas\Desktop\PCB para Eber\Library\W02G-E4_51.lia
+    Section : PCB Library - W02G-E4_51.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token W02G-E4/51 On Line 102
+            Warning - 1 : Skipping Token attachedSymbol On Line 188
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - W02G-E4_51.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 94
+        EndSection
+
+        Section : Generating SCH Library - W02G-E4_51.SchLib
+        EndSection
+    EndSection
+EndSection

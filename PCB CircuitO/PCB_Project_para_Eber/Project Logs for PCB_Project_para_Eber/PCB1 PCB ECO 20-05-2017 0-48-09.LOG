@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=schematic Member=P1
+Added Component: Designator=B1(PIN1)
+Added Component: Designator=B2(PIN1)
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=C1-1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_1 Pin=BR1-3
+Added Net: Name=NetB2_1
+Added Member To Class: ClassName=schematic Member=Component B1 Socket
+Added Member To Class: ClassName=schematic Member=Component B2 Socket
+Added Room: Name=schematic

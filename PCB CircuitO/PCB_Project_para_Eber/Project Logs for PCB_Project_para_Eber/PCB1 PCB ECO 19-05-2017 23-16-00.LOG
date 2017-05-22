@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CAPMF_82n_250V_MK New DesignItemId=CAPMF_470n_100V_MK
+Change Component Comment : Designator=C1 Old Comment=330n New Comment=470n
+Change Component Description : Designator=C1 Old Description=Capacitor THD MK Film 82nF 10% 250V New Description=Capacitor THD MK Film 470nF 10% 100V
+Added Room: Name=schematic
